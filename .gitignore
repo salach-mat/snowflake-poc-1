@@ -1,0 +1,5 @@
+id_rsa_snowflake_demo.pub
+id_rsa_snowflake_demo
+*.terraform*
+*.tfstate
+*.tfstate.*
